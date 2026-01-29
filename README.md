@@ -1,6 +1,6 @@
-# Hi, I'm Nazmul Islam
+# 👋 Hi, I'm Nazmul Islam
 
-### iOS Software Engineer · 7+ years building & shipping mobile apps
+### 📱 iOS Software Engineer · 7+ years building & shipping mobile apps
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nazmul-1104)
 [![Website](https://img.shields.io/badge/Website-nazmul.dev-4A90D9?style=for-the-badge)](https://nazmul.dev)
@@ -8,37 +8,46 @@
 
 ---
 
-## About me
+## 👤 About me
 
 I'm an **iOS Software Engineer** with **7+ years** of experience building and shipping mobile applications in **Swift**, **SwiftUI**, and **Objective-C**. I have a strong foundation in data structures and algorithms from competitive programming and coursework.
 
 I focus on:
-- Designing and shipping features end-to-end with cross-functional teams
-- Improving software architecture, performance, and maintainability
-- Triaging and resolving production issues
-- User onboarding, A/B testing, and building trust in consumer apps
+- 🚀 Designing and shipping features end-to-end with cross-functional teams
+- 🏗️ Improving software architecture, performance, and maintainability
+- 🐛 Triaging and resolving production issues
+- 📊 User onboarding, A/B testing, and building trust in consumer apps
 
 ---
 
-## Current role
+## 💼 Current role
 
 **Senior Software Engineer (iOS)** at [Agoda](https://www.agoda.com) · Bangkok, Thailand  
 Working on the [Agoda iOS App](https://apps.apple.com/th/app/agoda-cheap-flights-hotels/id440676901) — a global travel booking platform for hotels, flights, and vacation rentals.
 
 ---
 
-## Tech stack
+## 🛠️ Tech stack
 
-| **Languages** | Swift · Kotlin · Objective-C · Python · C/C++ · Go · SQL |
-|---------------|----------------------------------------------------------|
-| **Frameworks** | SwiftUI · UIKit · Combine · Core Data · Ktor · SDUI     |
-| **Tools**     | Git · Xcode · IntelliJ · Tuist · Jira · Firebase · Grafana |
-| **APIs**      | REST · GraphQL · WebSockets                             |
-| **Testing**   | XCTest · Unit · UI · Snapshot                            |
+[![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)](https://swift.org)
+[![SwiftUI](https://img.shields.io/badge/SwiftUI-00C7BE?style=flat-square&logo=swift&logoColor=white)](https://developer.apple.com/xcode/swiftui/)
+[![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)](https://kotlinlang.org)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
+[![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com)
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)](https://firebase.google.com)
+[![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)](https://graphql.org)
+
+| | |
+|---|---|
+| **💻 Languages** | Swift · Kotlin · Objective-C · Python · C/C++ · Go · SQL |
+| **📦 Frameworks** | SwiftUI · UIKit · Combine · Core Data · Ktor · SDUI |
+| **🔧 Tools** | Git · Xcode · IntelliJ · Tuist · Jira · Firebase · Grafana |
+| **🌐 APIs** | REST · GraphQL · WebSockets |
+| **✅ Testing** | XCTest · Unit · UI · Snapshot |
 
 ---
 
-## Experience
+## 📋 Experience
 
 | Role | Company | Focus |
 |------|---------|--------|
@@ -51,24 +60,24 @@ Working on the [Agoda iOS App](https://apps.apple.com/th/app/agoda-cheap-flights
 
 ---
 
-## Achievements
+## 🏆 Achievements
 
-- **Runner-up** — Grameenphone Digital Ninja Hackathon (50+ participants), 2021
-- **Professional Level** — Samsung Software Competency Test, 2018
-- **2nd place** (Team: CUET_Black_Flags) — IIUPC, 2015
-- **27th** (Team: CUET_Black_Flags) — Bangladesh University Programming Contest, 2014
-- **1000+** competitive programming problems on LeetCode, CodeForces, HackerRank, UVA, LightOJ, AlgoExpert
+- 🥈 **Runner-up** — Grameenphone Digital Ninja Hackathon (50+ participants), 2021
+- ✨ **Professional Level** — Samsung Software Competency Test, 2018
+- 🥈 **2nd place** (Team: CUET_Black_Flags) — IIUPC, 2015
+- 🎯 **27th** (Team: CUET_Black_Flags) — Bangladesh University Programming Contest, 2014
+- 💯 **1000+** competitive programming problems on LeetCode, CodeForces, HackerRank, UVA, LightOJ, AlgoExpert
 
 ---
 
-## Education
+## 🎓 Education
 
 **B.Sc. in Computer Science & Engineering** · Chittagong University of Engineering & Technology  
 GPA: 3.57 / 4.0 · Data Structures, Algorithms, OS, DBMS, Software Engineering, Networking
 
 ---
 
-## Connect
+## 📬 Connect
 
 - **LinkedIn:** [linkedin.com/in/nazmul-1104](https://www.linkedin.com/in/nazmul-1104)
 - **Website:** [nazmul.dev](https://nazmul.dev)
@@ -76,4 +85,4 @@ GPA: 3.57 / 4.0 · Data Structures, Algorithms, OS, DBMS, Software Engineering, 
 
 ---
 
-*Open to interesting iOS and mobile engineering opportunities.*
+*✨ Open to interesting iOS and mobile engineering opportunities.*
